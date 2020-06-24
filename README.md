@@ -48,3 +48,8 @@ If you prefer to get a new model with your own setting, you could get the datase
 dataset resourse:
 
 https://cocodataset.org/#overview
+
+References:
+
+LSTM Decoder by Keras: https://keras.io/examples/lstm_seq2seq/
+Attention layers by Keras: https://www.tensorflow.org/api_docs/python/tf/keras/layers/Attention
