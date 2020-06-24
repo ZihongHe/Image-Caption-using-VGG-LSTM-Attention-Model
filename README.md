@@ -39,6 +39,10 @@ deal.py : Model building modules
 
 show3.7.py :  Interation board modules
 
+To satisfy the above running, you should download the relative code with path below, and put them in the same load with the code files
+
+https://drive.google.com/file/d/137IEP5DxMa6-AkY9bh2ydQCm4NT06DGc/view?usp=sharing
+
 dataset resourse:
 
 https://cocodataset.org/#overview
