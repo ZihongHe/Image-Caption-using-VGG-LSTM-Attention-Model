@@ -38,3 +38,7 @@ Python files' content:
 deal.py : Model building modules
 
 show3.7.py :  Interation board modules
+
+dataset resourse:
+
+https://cocodataset.org/#overview
