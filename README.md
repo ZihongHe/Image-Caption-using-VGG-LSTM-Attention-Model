@@ -45,7 +45,7 @@ https://drive.google.com/file/d/137IEP5DxMa6-AkY9bh2ydQCm4NT06DGc/view?usp=shari
 
 If you prefer to get a new model with your own setting, you could get the dataset from the path below:
 
-dataset resourse:
+Dataset resourse:
 
 https://cocodataset.org/#overview
 
